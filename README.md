@@ -10,3 +10,5 @@ You can see the original version GibbsLDA++-0.2 from http://gibbslda.sourceforge
 The original version can not produce correct result if any of input document which length exceed 1MB.
 
 I just fix this limit.
+
+For more detail, see http://gibbslda.sourceforge.net/
