@@ -7,7 +7,7 @@ This project is a modified version of GibbsLDA++-0.2 writen by Xuan-Hieu Phan an
 
 You can download the original version GibbsLDA++-0.2 from http://gibbslda.sourceforge.net/
 
-The original version can not produce correct result if any of input document which length exceed 1MB.
+The original version can not produce the correct results if any of input document which length exceeds 1MB.
 
 I just fix this limit.
 
